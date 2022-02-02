@@ -1,0 +1,2 @@
+This project has been developed only for academic purpose and the name/images/references are purely fictious and any voilation may be purely coincidental.
+This project is not to be used for any economical purpose.

@@ -1,0 +1,84 @@
+#footer{
+  height:310px;
+  background-color: #f2f2f2;
+  position: relative;
+  top:500px;
+  text-align: left;
+}
+
+#footer #menu{
+  height: 296px;
+  margin :2px;
+  width:33%;
+  background-color: #f2f2f2;
+  float:left;
+}
+#footer #contact{
+  height: 146px;
+  margin :2px;
+  width:33%;
+  background-color: #f2f2f2;
+  float:left;
+  
+}
+
+h2{
+  font-family: helvetica;
+  font-size: 20;
+  color: #BFBF07;
+  position: relative;
+  top:-60px;
+}
+
+#footer #social{
+  height:146px;
+  margin:2px;
+  width:33%;
+  background-color: #f2f2f2;
+  float:right;
+  position:relative;
+  top:146px;
+  left:-500px;
+  
+}
+ 
+#footer #quality{
+  height:146px;
+  margin:2px;
+  width: 33%;
+  background-color: #f2f2f2;
+  float: right;
+  position: relative;
+  top:-130px;
+}
+
+#footer #terms{
+  height:146px;
+  margin:2px;
+  width: 40%;
+  background-color: #f2f2f2;
+  float: right;
+  position: relative;
+  top:-45%;
+}
+
+#terms a{
+  position: relative;
+  padding-left: 50;
+  top:60px;
+  right: -30px;
+  color:black;
+  font-family: helvetica;
+  font-size:20;
+  text-decoration:none;
+}
+
+#footer a{
+  text-decoration: none;
+  color:black;
+}
+
+#footer a:hover{
+  color:red;
+  font-size: 20;
+}

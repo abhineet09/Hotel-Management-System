@@ -1,0 +1,22 @@
+#rest_menu #rest_option a{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-family: helvetica;
+    font-size:20;
+    padding-right: 80px;
+}
+
+#rest_menu #rest_option a:hover{
+	color: red;
+}
+#container #book_taxi #current_booking a{
+	font-size: 15;
+	font-family: helvetica;
+	text-align: center;
+}
+#container #book_taxi #current_booking #th a{
+	font-size: 15;
+	font-family: helvetica;
+	text-align: center;
+}

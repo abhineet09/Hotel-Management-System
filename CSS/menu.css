@@ -1,0 +1,58 @@
+#container{
+    width:85%;
+    min-height: 100%;
+    background-color: white;
+    position: relative;
+    left:16%;
+    top:60px;
+    overflow: scroll;
+}
+
+
+#menu{
+    width: 20%;
+    min-height: 100%;
+    top:10px;
+    left:-10px;
+    background-color: black;
+}
+
+#menu #menu_option{
+    background-color: black;
+    position: relative;
+    top:50px;
+    height: 100%;
+}
+
+#menu a{
+    color: white;
+    text-align: center;
+    padding-left: 30px;
+    text-decoration: none;
+    font-family: helvetica;
+    font-size:20;
+}
+
+#menu a:hover{
+    color: red;
+}
+
+#menu #avatar{
+    position: relative;
+    top:60px;
+}
+
+#menu #checkout{
+    position: relative;
+    top:230px;
+}
+#container #book_taxi{
+     height: 100%;
+}
+
+#container #book_taxi a{
+    font-family: arial;
+    font-size: 40px;
+    text-decoration:none;
+    color: black;
+}
